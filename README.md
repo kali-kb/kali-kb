@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌐 Crafting the Web: Where Pixels Dance and Code Rhymes 🎨
-🚀 Unveiling the Magic of Browser Extension Alchemy ✨
-💬 Got questions about the art of web weaving? Shoot!
-⚡ Fun Fact: "Weaving the Tapestry of Tech Marvels: Every Click a Thread, Every Scroll a Story 🌱"
+🌐 **Crafting the Web: Where Pixels Dance and Code Rhymes** 🎨 <br>
+🚀 **Unveiling the Magic of Browser Extension Alchemy** ✨ <br>
+💬 **Got questions about the art of web weaving? Shoot!** <br>
+⚡ F**un Fact: "Weaving the Tapestry of Tech Marvels: Every Click a Thread, Every Scroll a Story** 🌱"
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@calebmate9) 
