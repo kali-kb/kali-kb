@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on web development<br>🌱 I’m currently learning browser extension development<br>💬 Ask me about web dev stuff<br>⚡ Fun fact "Cultivating Discoveries in Tech: Always Planting Seeds of Curiosity to Grow Knowledge 🌱"
-
+🌐 Crafting the Web: Where Pixels Dance and Code Rhymes 🎨
+🚀 Unveiling the Magic of Browser Extension Alchemy ✨
+💬 Got questions about the art of web weaving? Shoot!
+⚡ Fun Fact: "Weaving the Tapestry of Tech Marvels: Every Click a Thread, Every Scroll a Story 🌱"
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@calebmate9) 
