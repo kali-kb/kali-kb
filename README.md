@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🌐 **Crafting the Web: Where Pixels Dance and Code Rhymes** 🎨 <br>
-🚀 **Unveiling the Magic of Browser Extension Alchemy** ✨ <br>
-💬 **Got questions about the art of web weaving? Shoot!** <br>
+🌐 **Web Artisan: Where Pixels and Code Collide in Creative Harmony** 🎨 <br>
+🚀 **Unveiling the Magic of Desktop App Alchemy** ✨ <br>
+💬 **Let's chat about the world of web development. Ask anything!!** <br>
 ⚡ F**un Fact: "Weaving the Tapestry of Tech Marvels: Every Click a Thread, Every Scroll a Story** 🌱"
 
 ## 🌐 Socials:
